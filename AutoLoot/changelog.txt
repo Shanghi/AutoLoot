@@ -1,0 +1,3 @@
+2.1 (1/16/16):
+   * You can now drag an item onto the editbox and its name will be added to the list.
+   * The default iLvl of a rule is now 0-999 instead of 0-164 or whatever it was because of custom items being higher.

@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: AutoLoot
+## Author: Pyralis
+## Version: 2.1
+## Notes: Automatically loot/roll/pass on items based on names, rarity, item type, and ilevel. Optionally, loot and destroy unwanted items to make skinning easier.
+## SavedVariablesPerCharacter: AutoLootSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+AutoLoot.lua
